@@ -1,0 +1,9 @@
+{
+  "name": "Lumina AI",
+  "description": "An advanced, multimodal AI chat interface featuring voice interactions, file attachments, and persistent history.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
